@@ -1,8 +1,6 @@
-# Jogo da Vida utilizando Gloss
+Projeto final desenvolvido para a disciplina Paradigmas de Programação, feito durante o QS em 2020 na UFABC.
 
-- Relatório no arquivo Rel_Paradigmas-JRWS.pdf junto do link para o video.
-
-- Para executar basta utilizar stack run
+Jogo da Vida com regras modificáveis em Haskell utilizando a biblioteca Gloss.
 
 # Controles
 
