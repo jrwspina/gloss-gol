@@ -1,0 +1,7 @@
+|-----------------------------Controles--------------------------------|
+|______________________________________________________________________|
+| Barra de espaço               -> Pause/Play                          |
+| LMB (Botão esquerdo do mouse) -> Muda o estado de uma célula.        |
+| R                             -> Reseta o grid (células mortas).     |
+| Números 1 até 4               -> Altera o grid para um padrão salvo. |
+|______________________________________________________________________|
